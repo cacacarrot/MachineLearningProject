@@ -16,7 +16,6 @@ import numpy as np
 def main():
     lc = linearClassifierClass.linearClassifier()
 
-
 if __name__ == '__main__':
     print(os.path.basename(__file__))
     main()
